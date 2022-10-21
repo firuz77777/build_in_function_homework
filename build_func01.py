@@ -2,5 +2,5 @@
 number = -8
 # Find the absolute value of a "number" and assign to  "answer" 
 answer = abs(number)
-print(answer)
+
 # Print the answer
